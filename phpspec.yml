@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: employeeAdmin
+        psr4_prefix: employeeAdmin
+        src_path: app

@@ -1,0 +1,462 @@
+/* Extra small devices (phones, less than 768px) */
+@media (max-width: 768px) {
+
+/*oswal*/
+
+header {
+    height: 150px;
+    width: 100%;
+    background-color: white;
+}
+
+
+p.ptittle{
+	font-size: 1.8em;
+	margin-left: 60px;
+	margin-top: 20px;
+	color: #373F32;
+}
+
+.login{
+	margin-top: 80px;
+}
+
+/*fin oswal*/
+
+a,p,th,td{
+	font-size: 12px;
+}
+h1{
+	font-size: 1.5em !important;
+}
+h3{
+	font-size: 1.1em !important;
+}
+nav{
+	padding: 0 1em;
+}
+nav a{
+	padding: 0.4em 0 !important;
+}
+.content{
+	padding: 1em  !important;
+}
+.content-nav-fixed{
+	padding: 8em 1em 1em 1em !important;
+}
+.icon-user{
+	width: 40px;
+}
+
+.logo-header{
+	width: 30px;
+}
+
+
+.margin-md{
+	width:120px;
+}
+.margin-upbottom{
+	margin: 3em 0 2em 0;
+}
+.nav-margin-top{
+	margin-top: 49px;
+}
+.oferta-header{
+	top: 0.3em;
+	width: 30% !important;
+}
+.page-header{
+	padding: 0.4em 1em !important;
+}
+.text-header{
+	height: 30px;
+}
+
+
+.margin-top-sm{
+	margin-top: 1rem;
+}
+
+.margin-top-md{
+	margin-top: 2rem;
+}
+.margin-top-lg{
+	margin-top: 5rem;
+}
+.img-404{
+	width : 200px;
+}
+
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+/*oswal*/
+
+header {
+    height: 72px;
+    width: 100%;
+    background-color: white;
+}
+
+
+p.ptittle{
+	font-size: 2em;
+	margin-left: 100px;
+	margin-top: 20px;
+	color: #373F32;
+}
+
+.login{
+	margin-top: 100px;
+}
+
+/*fin oswal*/
+
+a,p{
+	font-size: 13px;
+}
+nav{
+	padding: 0 3em;
+}
+nav ul li a{
+	font-size: 1em;
+}
+.icon-user{
+	width: 50px;
+}
+
+.logo-header{
+	width: 40px;
+}
+
+.margin-md{
+	width:120px;
+}
+.nav-margin-top{
+	margin-top: 61px;
+}
+
+.text-header{
+	height: 37px;
+}
+
+.margin-top-sm{
+	margin-top: 1rem;
+}
+
+.margin-top-md{
+	margin-top: 2rem;
+}
+
+.margin-top-lg{
+	margin-top: 5rem;
+}
+.img-404{
+	width : 250px;
+}
+
+}
+
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+/*oswal*/
+
+header {
+    height: 72px;
+    width: 100%;
+    background-color: white;
+}
+
+
+p.ptittle{
+	font-size: 2em;
+	margin-left: 100px;
+	margin-top: 20px;
+	color: #373F32;
+}
+
+.login{
+	margin-top: 100px;
+}
+
+/*fin oswal*/
+
+a,p{
+	font-size: 13px;
+}
+nav{
+	padding: 0 3em;
+}
+.icon-user{
+	width: 60px;
+}
+
+.logo-header{
+	width: 45px;
+}
+
+.margin-md{
+	width:120px;
+}
+.margin-upbottom{
+	margin: 3em 0 2em 0;
+}
+.nav-margin-top{
+	margin-top: 67px;
+}
+.oferta-header{
+	top: 0.8em;
+	width: 15% !important;
+}
+.text-header{
+	height: 52px;
+}
+
+.margin-top-sm{
+	margin-top: 1rem;
+}
+.margin-top-md{
+	margin-top: 2rem;
+}
+.margin-top-lg{
+	margin-top: 8rem;
+}
+.img-404{
+	width : 300px;
+}
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+
+/*oswal*/
+
+header {
+    height: 72px;
+    width: 100%;
+    background-color: white;
+}
+
+
+p.ptittle{
+	font-size: 2em;
+	margin-left: 300px;
+	margin-top: 20px;
+	color: #373F32;
+}
+
+.login{
+	margin-top: 150px;
+}
+
+/*fin oswal*/
+
+
+a,p{
+	font-size: 14px;
+}
+nav{
+	padding: 0 3em;
+}
+.icon-user{
+	width: 60px;
+}
+
+.logo-header{
+	width: 50px;
+}
+
+}
+.margin-md{
+	width:120px;
+}
+.margin-upbottom{
+	margin: 3em 0 2em 0;
+}
+.nav-margin-top{
+	margin-top: 73px;
+}
+.oferta-header{
+	top: 1em;
+	width: 15% !important;
+}
+.text-header{
+	height: 57px;
+}
+
+
+.margin-top-sm{
+	margin-top: 1rem;
+}
+
+.margin-top-md{
+	margin-top: 2rem;
+}
+
+.margin-top-lg{
+	margin-top: 8rem;
+}
+
+.img-404{
+	width : 320px;
+}
+
+}
+
+/* End Media queries */
+
+/*oswal*/
+
+
+.logout{
+	color: white!important;
+}
+
+.logo{
+	width: auto;
+    height: 72px;
+    float: left;
+    background-color: #ffffff;
+}
+
+.tittle{
+	width: auto;
+	height: 72px;
+    float: left;
+	    
+	    
+}
+
+.required{
+	color: red;
+    margin: 0 0px 0 5px;
+    font-size: 0.9em;
+}
+
+
+div.required{
+	margin: 20px 20px 20px 0px;
+	font-size: 1em;
+	text-align: right;
+}
+
+p.createEmployee{
+	float: right;
+	margin: 15px;
+}
+
+div.actionButton{
+	float: right;
+	margin-top: 10px;
+}
+
+div.search{
+	margin-bottom: 50px;
+}
+
+.buttonSearch{
+	float: right;
+	margin: 20px 15px 10px 0;
+}
+
+h4.titleModal{
+	color: red;
+	font-size: 1.5em;
+}
+
+a.logout{
+	color: white!important;
+}
+/**/
+
+a{
+	text-decoration: none;
+}
+body,html{
+	height: 100%;
+}
+td a{
+	text-decoration: none;
+}
+nav{
+	background-color: #10477E !important;
+	color: white !important;
+}
+nav ul li a{
+	text-decoration: none;
+	font-size: 1.3em;
+}
+
+.margin-bottom-sm{
+	margin-bottom: 1rem;
+}
+
+.margin-bottom-md{
+	margin-bottom: 2rem;
+}
+
+.padding-sm{
+	padding: 1rem;
+}
+
+.padding-md{
+	padding: 2rem;
+}
+
+.grey-font-color{
+	color: #666;
+}
+
+.font-size-sm{
+	font-size: 1.5rem;
+}
+
+.font-size-md{
+	font-size: 2rem;
+	font-weight: 300;
+}
+
+.bg-gray{
+	background-color: #EEE;
+	border-radius: 5px;
+}
+.bg-dark-gray{
+	background-color: #CCC;
+}
+.content{
+	padding: 3em 3em 3em 3em;
+	position: relative;
+	min-height: 100%;
+}
+.content-nav-fixed{
+	padding: 10em 3em 3em 3em;
+}
+.icon-user{
+	position: relative;
+	margin-top: -30px;
+}
+
+.page-header a{
+	text-decoration: none;
+}
+.txt-gray{
+	color: #B7AAB4;
+}
+
+.text-inf{
+	margin: 2em 0 3em 1.6em;
+	font-size: 1em;
+	color: #666;
+}
+.hiddenRow {
+    padding: 0 1em !important;
+    border: 0px solid !important;
+}
+
+
